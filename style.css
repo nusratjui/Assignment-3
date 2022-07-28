@@ -141,3 +141,20 @@ body{
     background: #F7941E;
     color: #fff;
 }
+.accordion{
+    margin-left: 15%;
+    margin-right: 10%;
+}
+.accordion-body{
+    color: #777777;
+    font-size: 14px;
+}
+.text-center{
+    font-size: 30px;
+}
+.footer_one{
+    font-size: 30px;
+}
+.footer_two{
+    font-size: 15px;
+}
