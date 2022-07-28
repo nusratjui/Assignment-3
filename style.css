@@ -158,3 +158,56 @@ body{
 .footer_two{
     font-size: 15px;
 }
+
+/* responsive */
+/* Mobile view */
+
+@media only screen and (max-width: 600px){
+    .carousel-caption{
+        padding-left: 5%;
+        padding-right: 5%;
+        margin-left: 2%;
+        margin-right: 2%;
+        flex-wrap: wrap;      
+    }
+    .digital{
+        font-size: 10%;
+    }
+    .card_one{
+        display: grid;
+    }
+    .card_one img{
+        width: 100%;
+        height: 100%;
+    }
+    .card_two{
+        display: grid;
+    }
+    .card_two img{
+        width: 100%;
+        height: 100%;
+    }
+    .card_three{
+        display: none;
+    }
+    .mobile_btn{
+       margin-right: 20%;
+       margin-left: 35%;
+
+    }
+    .ready{
+        padding-left: 20%;
+        padding-right: 20%;
+        text-align: left;    
+    }
+    .msg{
+        text-align: left;
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+    .now{
+        margin-top: 25%;
+        margin-left: 20%;
+        margin-right: 30%;
+    } 
+}
