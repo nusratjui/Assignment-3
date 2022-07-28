@@ -36,3 +36,91 @@ body{
     font-size: 15px;
     color: #F4F4F4;
 }
+
+/* main */
+.popular h5{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+#edu{
+    text-align: center;
+    font-size: 13px;
+    color: #777777;
+}
+.card_one{
+    display: flex;
+    margin-left: 12%;
+    margin-right: 8%;   
+}
+.card-title{
+    color: #4A4A4A;
+    font-weight: 600;
+}
+.card_one img{
+    height: 100%;
+}
+.card_two{
+    display: flex;
+    margin-left: 12%;
+    margin-right: 8%;
+    
+}
+.card_two img{
+    height: 100%;
+}
+.card_three{
+    display: flex;
+    margin-left: 12%;
+    margin-right: 8%;
+    
+}
+.card_three img{
+    height: 100%;
+}
+.card-text{
+    font-size: 14px;
+    color: #777777;;
+}
+.text{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #289BDE;
+}
+.more{
+    margin-left: 45%;
+}
+
+.flexible{
+    display: flex;
+    margin-left: 12%;
+    margin-right: 10%;
+    background: #F4FAFD;
+}
+.half-width img{
+    width: 220%;
+    height: 85%;
+}
+.class_one{
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 45%;
+    margin-top: 10%;
+    color: #1D1D1D;
+}
+.sample{
+    color: rgb(128, 128, 128);
+    padding-left: 45%;
+    padding-right: 5%;
+    text-align: justify;
+    font-size: 15px;
+}
+.bold{
+    color: black;
+    font-size: 30px;
+}
+.submit{
+    margin-left: 45%;
+}
