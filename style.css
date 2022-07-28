@@ -124,3 +124,20 @@ body{
 .submit{
     margin-left: 45%;
 }
+.registration{
+    margin-left: 12%;
+    margin-right: 10%;
+}
+.registration h3{
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.registration p{
+    padding-left: 5%;
+    font-size: 13px;
+    margin-bottom: 5%;
+}
+.modal-header {
+    background: #F7941E;
+    color: #fff;
+}
