@@ -92,7 +92,7 @@ body{
     margin-left: 45%;
 }
 
-.flexible{
+/* .flexible{
     display: flex;
     margin-left: 12%;
     margin-right: 10%;
@@ -120,10 +120,12 @@ body{
 .bold{
     color: black;
     font-size: 30px;
-}
-.submit{
+} */
+/* .submit{
     margin-left: 45%;
-}
+} */
+
+/* registration */
 .registration{
     margin-left: 12%;
     margin-right: 10%;
